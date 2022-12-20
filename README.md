@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ankitphy
 - 👀 I’m interested in ... Computer Science, Music etc
 - 🌱 I’m currently learning ... Data Science and Applications
-- 💞️ I’m looking to collaborate on ... Intersting Web development projects
+- 💞️ I’m looking to collaborate on ... Interesting Web development projects
 - 📫 How to reach me ...
 
 <!---
